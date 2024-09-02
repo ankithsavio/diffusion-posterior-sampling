@@ -5,7 +5,7 @@ conditioning:
 
 data:
   name: ffhq
-  root: /kaggle/input/celebahq/celeba_hq/val/male
+  root: ../input/celebahq/celeba_hq/val/male
 
 measurement:
   operator:
